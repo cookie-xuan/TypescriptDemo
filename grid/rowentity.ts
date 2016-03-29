@@ -1,0 +1,3 @@
+interface RowEntity{
+    getMemberNames():string[];
+}
