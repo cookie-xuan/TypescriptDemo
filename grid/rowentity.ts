@@ -1,3 +1,4 @@
-interface RowEntity{
-    getMemberNames():string[];
+interface RowEntity {
+    getMemberNames(): string[];
+    serializeToString(): string[];
 }
